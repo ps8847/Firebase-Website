@@ -4,6 +4,10 @@
 
 The React Firebase Website is a project created after learning Firebase. It serves as a template for making a company's initial website. This project utilizes React.js for the frontend and Firebase for backend services.
 
+<div style="padding: 10px;">
+    <img src="/firebase-website.png" alt="DatePicker" style="width: 80%; padding: 10px;">
+</div>
+
 ## Features
 
 - **React.js Integration**: Utilizes the React.js library for building a dynamic and interactive user interface.
